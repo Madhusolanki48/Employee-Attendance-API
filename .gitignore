@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+check_my_api.py
+sample_data/
+sample_seed.py
